@@ -1,12 +1,10 @@
 cross_post:
 - facebook_business
 - tumblr
-- livejournal
 - medium
 - discord
 - telegram
-- taggr
-- cohost
+# - taggr
 - twitter
 - bluesky
 - mastadon
