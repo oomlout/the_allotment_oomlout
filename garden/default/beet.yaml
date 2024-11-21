@@ -4,7 +4,7 @@ cross_post:
 - medium
 - discord
 - telegram
-# - taggr
+- taggr
 - twitter
 - bluesky
 - mastadon
