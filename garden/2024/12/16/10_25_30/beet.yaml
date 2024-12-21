@@ -1,17 +1,20 @@
 allotment_name: the_allotment_oomlout
 beet: 'Enjoying the scaling up of bolt assortment kit production! #stack_o_trays'
 cross_post:
-- facebook_business
-- tumblr
-- medium
-- taggr
-- twitter
-- bluesky
-- mastadon
-- threads
-- instagram
-- discord
-- telegram
+# - facebook_business
+# - tumblr
+# - medium
+# - taggr
+# - twitter
+# - bluesky
+# - mastadon
+# - threads
+# - instagram
+# - discord
+# - telegram
+# - makerworld
+- printables
+
 folder: github.com/oomlout/the_allotment_oomlout/2024/12/16/10_25_30
 host: github.com
 id: github_com_oomlout_the_allotment_oomlout_2024_12_16_10_25_30
