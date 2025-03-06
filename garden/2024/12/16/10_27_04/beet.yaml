@@ -1,19 +1,21 @@
 allotment_name: the_allotment_oomlout
 beet: The best part of screw samples is they need to be labeled, stored, and transported!
 cross_post:
-- facebook_business
-- tumblr
-- medium
-- taggr
-- twitter
-- bluesky
-- mastadon
-- threads
-- instagram
-- makerworld
+# - facebook_business
+# - tumblr
+# - medium
+# - taggr
+# - twitter
+# - bluesky
+# - mastadon
+# - threads
+# - instagram
+# - makerworld
 - printables
+- flickr
 - discord
 - telegram
+- pixelfed
 folder: github.com/oomlout/the_allotment_oomlout/2024/12/16/10_27_04
 host: github.com
 id: github_com_oomlout_the_allotment_oomlout_2024_12_16_10_27_04

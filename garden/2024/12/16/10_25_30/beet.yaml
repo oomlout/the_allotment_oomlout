@@ -12,8 +12,10 @@ cross_post:
 # - instagram
 # - discord
 # - telegram
+- pixelfed
 # - makerworld
 - printables
+- flickr
 
 folder: github.com/oomlout/the_allotment_oomlout/2024/12/16/10_25_30
 host: github.com
