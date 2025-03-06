@@ -2,6 +2,8 @@ allotment_name: the_allotment_oomlout
 beet: 'Also for small messages! #little_bb_bunting ( https://github.com/oomlout/oomlout_oobb_bundle_bunting_alphabet
   )'
 cross_post:
+- reddit_community
+#- reddit_personal
 - facebook_business
 - tumblr
 - medium
